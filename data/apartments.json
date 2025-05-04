@@ -1,0 +1,54 @@
+ 
+[
+    {
+      "title": "2BHK Apartment in Andheri West",
+      "location": "Mumbai",
+      "price": 22000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqft": 950,
+      "amenities": ["Lift", "Parking", "Security"],
+      "available": true
+    },
+    {
+      "title": "1BHK Budget Flat in Kothrud",
+      "location": "Pune",
+      "price": 12000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqft": 550,
+      "amenities": ["Water Supply", "CCTV"],
+      "available": true
+    },
+    {
+      "title": "3BHK Luxurious Apartment in Baner",
+      "location": "Pune",
+      "price": 34000,
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "area_sqft": 1450,
+      "amenities": ["Swimming Pool", "Gym", "Clubhouse"],
+      "available": false
+    },
+    {
+      "title": "Studio Apartment Near MG Road",
+      "location": "Bengaluru",
+      "price": 18000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area_sqft": 450,
+      "amenities": ["Wi-Fi", "Security", "Power Backup"],
+      "available": true
+    },
+    {
+      "title": "Spacious 2BHK in Salt Lake Sector V",
+      "location": "Kolkata",
+      "price": 20000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area_sqft": 900,
+      "amenities": ["Lift", "Parking", "24x7 Water"],
+      "available": true
+    }
+  ]
+  
